@@ -1,0 +1,65 @@
+
+body {
+    margin: 0px;
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+
+
+#hero-section{
+    background-image: url("https://images.unsplash.com/photo-1631199062113-41c29ec8e504?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover; 
+    height: 600px;
+    background-position: center;
+
+    color: #FAF2F6;
+
+    display: flex;
+    align-items: start;
+    justify-content: start;
+}
+
+
+
+#hero-section-text{
+    margin-left: 30px;
+
+}
+
+
+.heading1 {
+    font-size: 32px;  
+}
+    
+
+#fun-fact-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 300px;
+}
+
+#italics {
+    font-style: italic;
+    font-size: 40px;
+
+}
+
+#guide-section {
+    height: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.guide-img {
+    border-radius: 16px;
+    height: 302px;
+    width: 408px;
+}
+
+#middle {
+    background: linear-gradient(#1B4C8A,#FAF2F6);
+}
+
