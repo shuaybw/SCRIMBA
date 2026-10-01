@@ -9,7 +9,7 @@ body {
     background-color: #3F334D;
 }
 
-h3 {
+.h3-title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 700;
     font-size: 40px;
@@ -22,13 +22,10 @@ h3 {
     background: none;
     border: #574B60 2px solid;
     border-radius: 5px;
-    padding: 40px;
-
+    padding: 30px;
     color: #EAF0CE;
 
-
-
-
+    margin-left: 5px;
 }
 
 .h4-number  {
@@ -37,20 +34,18 @@ h3 {
     font-size: 90px;
     line-height: 126.67px;
     color: #F94F6D;
+    background-color: #574B60;
+    border-radius: 5px;
+    padding: 100px;
+    width: 150px;
     
 
 }
 
 .container {
-    margin-top: 300px;
+    margin-top: 200px;
     display: flex;
     justify-content: space-around;
 }
 
-.h4-number {
-    background-color: #574B60;
-    border-radius: 5px;
-    padding: 100px;
-    width: 150px;
-}
 
